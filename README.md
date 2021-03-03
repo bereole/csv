@@ -1,0 +1,2 @@
+# csv
+Before you can run this, you need to have a php stack preferrably xampp(used in this project) installed on your pc and put these files in the appropirate folder. Start the servers and run this. You need to craete a table on your phpmyadmin and name it csv in order to connect. It will load the files from the csv into the db and you can add more content but it should be in the form specfied in the file.
